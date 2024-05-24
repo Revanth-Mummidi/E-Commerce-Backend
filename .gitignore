@@ -1,0 +1,6 @@
+/user/node_modules
+
+user/config/servicesAccountKey.json
+user/config/db_config.js
+
+/user/.env
